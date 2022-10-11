@@ -39,7 +39,7 @@ sudo ln -s $(pwd)/threader3000.py /usr/local/bin/threader3000
 
 **Will you please integrate multiple IP addresses and different scanning tools into Threader3000, making it an all-in-one automated scanner?**
 
-Not as of current.  If you want a tool like that, I suggest [AutoEnum](https://github.com/Gr1mmie/autoenum).
+Not as of current.  If you want a tool like that, I suggest [AutoEnum](https://github.com/readloud/autoenum).
 
 **Will this tool help me pass the OSCP?**
 
